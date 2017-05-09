@@ -53,10 +53,6 @@ html:-webkit-full-screen-ancestor {
 html:-moz-full-screen-ancestor {
   background-color: inherit; }
 
-.img-circle {
-    border-radius: 2%;
-}
-
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
